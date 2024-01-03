@@ -1,0 +1,1 @@
+API creada en FastAPI para conectar el modelo predictivo creado en Python, que utiliza una red neuronal artificial y fue entrenado con los datos de la enfermedad Neosporosis Bovina.
