@@ -3,4 +3,5 @@ streamlit
 numpy==1.26.3
 pydantic==2.5.3
 tensorflow==2.15.0
+uvicorn==0.20.0
 #tensorflow_macos==2.15.0
